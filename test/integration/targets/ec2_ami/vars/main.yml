@@ -18,3 +18,4 @@ ec2_region_images:
   ap-south-1: ami-4fc58420
   sa-east-1: ami-f1344b9d
   cn-north-1: ami-fba67596
+  cn-northwest-1: ami-6c0b1e0e
